@@ -33,4 +33,4 @@ The dataset covers the **last 8 complete EPL seasons** (2016â€“17 through 2023â€
 - Summarized results and visualizations will highlight payroll distribution, seasonal performance trends, and regression outcomes.
 
 ## Results:
-- [Result](./Results.pdf)
+- [Result](./EPL_payroll_vs_points_analysis.pdf)
